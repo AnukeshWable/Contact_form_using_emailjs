@@ -1,4 +1,4 @@
-function sendmessage() {
+function sendmessage(){
     (function () {
       emailjs.init("0beN_UUbuE7xehNY7");
     })();
